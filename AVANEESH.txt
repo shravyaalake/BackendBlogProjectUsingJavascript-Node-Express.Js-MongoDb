@@ -1,1 +1,11 @@
-test
+git branch
+
+git pull <bn>
+
+git switch <bn>
+
+git add .
+
+git commit -m "nessags"
+
+git push / git push -u origin
